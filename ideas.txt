@@ -1,2 +1,0 @@
-motion detector to see what are moving, and then find humans
-yolo -> named in a lesson
